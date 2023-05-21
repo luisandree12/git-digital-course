@@ -4,3 +4,4 @@
 
 # salvando mais algumas modifificações
 * comando git pull
+* comando git fetch
